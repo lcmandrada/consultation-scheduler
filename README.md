@@ -2,7 +2,7 @@
 
 **Legacy Project**
 
-A basic graphical application for handling thesis and design consultation schedules written in python 3.
+A basic graphical application written in python for handling thesis and design consultation schedules.
 
 It uses the following libraries:
 ```python
